@@ -1,25 +1,24 @@
-# sales-data-analysis
-# Sales Data Analysis Project
+# Sales Data Analysis
 
-## Overview
-This project analyzes sales data to identify trends, top-performing cities, and product performance.
+## 📊 Overview
+This project analyzes sales data to identify trends, top-performing cities, and product/category performance.
 
-## Tools Used
+## 🛠 Tools Used
 - Python
 - Pandas
 - Matplotlib
 
-## Key Analysis
-- Sales by city
-- Sales by month
-- Product and category performance
-- Pivot table analysis
+## 🔍 Analysis Performed
+- Sales aggregation by city, month, and category
+- Pivot table analysis for multi-dimensional insights
+- Feature engineering using apply() for sales categorization
+- Data visualization using bar charts
 
-## Key Insights
-- Delhi generates highest total sales
-- Sales show increasing trend over months
-- Electronics category performs best
-- High-value sales concentrated in specific cities
+## 📈 Key Insights
+- Delhi generated the highest overall sales
+- Sales showed a consistent increase from Jan to May
+- Electronics category contributed the most revenue
+- High-value transactions (>300) were concentrated in major cities
 
-## Conclusion
-This analysis helps understand business performance and supports decision-making using data.
+## 📌 Conclusion
+The analysis helps understand revenue patterns and supports data-driven decision-making.
